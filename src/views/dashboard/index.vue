@@ -1,6 +1,11 @@
 <template>
   <div class="dashboard-container">
     <div class="dashboard-text">name: {{ name }}</div>
+
+    <i class="fa fa-users" />
+    <i class="fa fa-user" />
+    <i class="fa fa-address-book-o" />
+    <i class="fa fa-window-close" />
   </div>
 </template>
 
